@@ -1,7 +1,7 @@
 
 [![Docker Stars](https://img.shields.io/docker/stars/netresearch/metadata-resource.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/netresearch/metadata-resource/stars/count/)
 [![Docker pulls](https://img.shields.io/docker/pulls/netresearch/metadata-resource.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/netresearch/metadata-resource)
-[![Docker build status](https://img.shields.io/docker/build/netresearch/docker-metadata-resource.svg)](https://github.com/netresearch/docker-metadata-resource)
+[![Docker build status](https://img.shields.io/docker/build/netresearch/metadata-resource.svg)](https://github.com/netresearch/metadata-resource)
 [![Docker Automated build](https://img.shields.io/docker/automated/netresearch/metadata-resource.svg)](https://github.com/netresearch/docker-metadata-resource)
 
 [![dockeri.co](http://dockeri.co/image/netresearch/metadata-resource)](https://hub.docker.com/r/netresearch/docker-metadata-resource/)
