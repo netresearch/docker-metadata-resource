@@ -1,10 +1,10 @@
 
-[![Docker Stars](https://img.shields.io/docker/stars/swce/metadata-resource.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/swce/metadata-resource/stars/count/)
-[![Docker pulls](https://img.shields.io/docker/pulls/swce/metadata-resource.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/swce/metadata-resource)
-[![Docker build status](https://img.shields.io/docker/build/swce/metadata-resource.svg)](https://github.com/swce/metadata-resource)
-[![Docker Automated build](https://img.shields.io/docker/automated/swce/metadata-resource.svg)](https://github.com/swce/metadata-resource)
+[![Docker Stars](https://img.shields.io/docker/stars/netresearch/docker-metadata-resource.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/netresearch/docker-metadata-resource/stars/count/)
+[![Docker pulls](https://img.shields.io/docker/pulls/netresearch/docker-metadata-resource.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/netresearch/docker-metadata-resource)
+[![Docker build status](https://img.shields.io/docker/build/netresearch/docker-metadata-resource.svg)](https://github.com/netresearch/docker-metadata-resource)
+[![Docker Automated build](https://img.shields.io/docker/automated/netresearch/docker-metadata-resource.svg)](https://github.com/netresearch/docker-metadata-resource)
 
-[![dockeri.co](http://dockeri.co/image/swce/metadata-resource)](https://hub.docker.com/r/swce/metadata-resource/)
+[![dockeri.co](http://dockeri.co/image/netresearch/docker-resource)](https://hub.docker.com/r/netresearch/docker-metadata-resource/)
 
 # Concourse CI Metadata Resource
 
@@ -25,7 +25,7 @@ resource_types:
   - name: meta
     type: docker-image
     source:
-      repository: swce/metadata-resource
+      repository: netresearch/metadata-resource
       
 resources:
   - name: meta
@@ -70,7 +70,7 @@ resource_types:
   - name: meta
     type: docker-image
     source:
-      repository: swce/metadata-resource
+      repository: netresearch/metadata-resource
 
 resources:
   - name: meta
@@ -104,7 +104,7 @@ resource_types:
   - name: meta
     type: docker-image
     source:
-      repository: swce/metadata-resource
+      repository: netresearch/metadata-resource
   - name: keyval
     type: docker-image
     source:
